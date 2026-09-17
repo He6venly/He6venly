@@ -191,17 +191,20 @@ Computer Science
 
 ## 🏆 Algorithm
 
-### Programmers
-
-[![Programmers](https://img.shields.io/badge/Programmers-43E5C4?style=for-the-badge&logo=programmers&logoColor=white)](https://programmers.co.kr/)
+<p>
+  <a href="https://programmers.co.kr/">
+    <img src="https://cdn.simpleicons.org/programmers/43E5C4" width="22"/>
+    <b> Programmers</b>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=He6venly&show_icons=true&locale=kr&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=He6venly&layout=compact&locale=kr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=He6venly&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=He6venly&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -210,10 +213,10 @@ Computer Science
 
 <p>
   <a href="https://github.com/He6venly">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://programmers.co.kr/users/프로그래머스ID">
-    <img src="https://img.shields.io/badge/Programmers-43E5C4?style=for-the-badge&logo=programmers&logoColor=white"/>
+  <a href="https://programmers.co.kr/">
+    <img src="https://img.shields.io/badge/Programmers-21262d?style=flat-square&logo=programmers&logoColor=43E5C4"/>
   </a>
 </p>
 
