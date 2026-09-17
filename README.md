@@ -187,16 +187,6 @@ Computer Science
  └── 시스템 프로그래밍
 ```
 
----
-
-## 🏆 Algorithm
-
-<p>
-  <a href="https://programmers.co.kr/">
-    <img src="https://cdn.simpleicons.org/programmers/43E5C4" width="22"/>
-    <b> Programmers</b>
-  </a>
-</p>
 
 ---
 
