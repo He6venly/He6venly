@@ -193,9 +193,8 @@ Computer Science
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=He6venly&show_icons=true&locale=kr" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=He6venly&layout=compact&locale=kr" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=He6venly&show_icons=true&locale=kr" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=He6venly&layout=compact&locale=kr" alt="Top Languages" height="165" />
 </p>
 ---
 
