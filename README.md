@@ -161,7 +161,7 @@
 
 > 사진 인식과 항공사 규정 알고리즘으로 여행 짐 반입 가능 여부를 확인하는 웹 서비스
 
-[![챙기고 서비스 미리보기](https://cheerful-sundae-3a0b77.netlify.app/sky-airplane-background.jpg)](https://cheerful-sundae-3a0b77.netlify.app/)
+[![챙기고 서비스 미리보기](https://cheerful-sundae-3a0b77.netlify.app/social-preview.png)](https://cheerful-sundae-3a0b77.netlify.app/)
 
 * **Frontend** : React 19, TypeScript, Vite
 * **Backend** : Netlify Functions
