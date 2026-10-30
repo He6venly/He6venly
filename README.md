@@ -157,13 +157,27 @@
 
 ---
 
-### 📂 [
+### ✈️ [챙기고](https://github.com/He6venly/CWNU_SWDNA9)
 
-> 
+> 사진 인식과 항공사 규정 알고리즘으로 여행 짐 반입 가능 여부를 확인하는 웹 서비스
 
-* **Language** : Python
+[![챙기고 서비스 미리보기](https://cheerful-sundae-3a0b77.netlify.app/sky-airplane-background.jpg)](https://cheerful-sundae-3a0b77.netlify.app/)
 
-🔗 [GitHub Repository]()
+* **Frontend** : React 19, TypeScript, Vite
+* **Backend** : Netlify Functions
+* **AI / Search** : Gemini API, Tavily API
+* **Validation** : Zod, Vitest
+* **Deploy** : Netlify
+
+**주요 기능**
+
+* 전체·개별 사진 기반 여행 물품 인식
+* 16개 항공사 직접 운항편 규정 확인
+* 6개 분류별 수량 합산 및 순수 규정 알고리즘 판정
+* 기내 반입·위탁 수하물·반입 불가 결과 안내
+
+🔗 [GitHub Repository](https://github.com/He6venly/CWNU_SWDNA9)  
+🌐 [서비스 바로가기](https://cheerful-sundae-3a0b77.netlify.app/)
 
 ---
 
